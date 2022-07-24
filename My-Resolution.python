@@ -1,0 +1,4 @@
+#dunno what to type actually, so i'll just share this minor confidential info :|
+score = 65
+okay = ("I got {} on my first assignment")
+print(okay.format(score))
